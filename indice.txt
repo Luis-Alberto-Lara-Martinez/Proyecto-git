@@ -1,0 +1,7 @@
+Nombre: Luis Alberto
+Apellidos: Lara Martínez
+Curso: 1º DAW
+- Carpeta "Bases": uso archivo .png en el que se muestra un modelo entidad-relación echo en clase.
+- Carpeta "Entornos": uso un archivo .png en el que se muestra un diagrama de flujo que te dice si un número introducido por pantalla es par o impar.
+- Carpeta "Programación": uso un archivo .java en el que se muestra un mensaje por pantalla relacionado con este proyecto.
+- Carpeta "Sistemas": uso un archivo .docx en que se muestra una práctica que hicimos sobre como montar un ordenador.
